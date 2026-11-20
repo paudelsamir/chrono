@@ -1,0 +1,7 @@
+module chrono.components
+singleton ChronoTheme 1.0 ChronoTheme.qml
+Sheet 1.0 Sheet.qml
+SoftButton 1.0 SoftButton.qml
+Segment 1.0 Segment.qml
+Donut 1.0 Donut.qml
+Toast 1.0 Toast.qml

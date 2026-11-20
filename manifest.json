@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "paudelsamir.chrono",
+  "name": "Chrono",
+  "version": "0.1.0",
+  "author": "paudelsamir",
+  "license": "MIT",
+  "description": "Chrono timer and activity tracker bar widget.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Chrono",
+    "description": "Timers and activity insights",
+    "category": "Time",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}

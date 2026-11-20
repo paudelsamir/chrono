@@ -1,0 +1,5 @@
+module paudelsamir.chrono
+singleton TimerState 1.0 TimerState.qml
+singleton Tracker 1.0 Tracker.qml
+TimeField 1.0 TimeField.qml
+CompactField 1.0 CompactField.qml
